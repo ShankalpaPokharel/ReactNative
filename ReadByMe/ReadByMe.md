@@ -1537,3 +1537,11 @@ export default function RootLayout() {
 
 ![alt text](image-30.png)
 ![alt text](image-29.png)
+
+
+
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:ShankalpaPokharel/ReactNative.git
+git push -u origin main
